@@ -6,5 +6,6 @@ public class Main {
 		System.out.println("Good bye");
 		System.out.println("AAA");
 		System.out.println("BBB");
+		System.out.println("CCC");
 	}
 }
