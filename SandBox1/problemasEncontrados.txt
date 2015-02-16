@@ -1,0 +1,5 @@
+1.  El fichero travis tiene que estar fuera del proyecto de Eclipse
+	para que travis CI lo detecte.
+	El fichero build.gradle tiene que estar dentro del proyecto de
+	Eclipse para que Eclipse lo detecte, pero debe estar fuera para
+	que travis CI lo detecte. ¿Qué hago? ¿Lo duplico? 
